@@ -5,8 +5,8 @@ Este proyecto es un fork de un proyecto Existente
 
 ## Como Usarlo
 
-git clone git@github.com:aframevr/a-blast && cd a-blast
-npm install
-npm start
+-git clone git@github.com:aframevr/a-blast && cd a-blast
+-npm install
+-npm start
 
 
